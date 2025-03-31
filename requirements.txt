@@ -1,0 +1,2 @@
+'tkinter'
+#all the other necessary modules will be download respectively within the folders
